@@ -1,4 +1,5 @@
-[Mstarr85.pdf](https://github.com/Mstarr85/Developer-Profile-Generator/files/4376998/Mstarr85.pdf)
+![Screen Shot 2020-03-24 at 2 22 26 PM (2)](https://user-images.githubusercontent.com/53281244/77462838-0e18e780-6ddb-11ea-9ac1-5c0faf181fbf.png)
+![Screen Shot 2020-03-24 at 2 22 33 PM (2)](https://user-images.githubusercontent.com/53281244/77462850-1113d800-6ddb-11ea-9a20-e691bd8cf78e.png)
 # Developer-Profile-Generator
 - A command-line application that dynamically generates a PDF profile from a GitHub username.
 
