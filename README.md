@@ -14,21 +14,30 @@ A command-line application that dynamically generates a PDF profile from a GitHu
  * Run "npm install" in Terminal or Command prompt
  
  * Run command node index.js
+ 
+                   or
+                   
+ * Click on the Github Deployed Link and user will be taken to an example using my Github profile
 
-# Breakdown 
-After doing the instructions stated above:
-- Open the index.js file and go to line #80 and enter a local address to have the PDF file to be generated
-- You will be asked for a Github username to lookup in terminal or command prompt
-- Type in the username and press enter 
-- Then you will be asked to pick a color out of four choices
-- Type which color you would like and press enter
-- You will get a message that says Success!!! PDF Generated!
-- Then open the PDF file on your machine or open in your default browser to click on the github or Blog links that will take you to the user's Github page
-- Or you can click on the Github Deployed Link and all the work is done for you 
+## How It Works 
 
-# Built With 
+ * Open the index.js file and go to line #80 and enter a local address to have the PDF file to be generated
+ 
+ * You will be asked for a Github username to lookup in terminal or command prompt
+ 
+ * Type in the username and press enter 
+ 
+ * Then you will be asked to pick a color out of four choices
+ 
+ * Type which color you would like and press enter
+ 
+ * You will get a message that says Success!!! PDF Generated!
+ 
+ * Then open the PDF file on your machine or open in your default browser to click on the github or Blog links that will take    you to the user's Github page
+
+## Technologies Used 
 - Html
-- Css 
+- CSS
 - Java Script 
 - Jquery
 
