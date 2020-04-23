@@ -1,12 +1,19 @@
 ![Screen Shot 2020-03-24 at 2 22 26 PM (2)](https://user-images.githubusercontent.com/53281244/77462838-0e18e780-6ddb-11ea-9ac1-5c0faf181fbf.png)
 ![Screen Shot 2020-03-24 at 2 22 33 PM (2)](https://user-images.githubusercontent.com/53281244/77462850-1113d800-6ddb-11ea-9a20-e691bd8cf78e.png)
-# Developer-Profile-Generator
-- A command-line application that dynamically generates a PDF profile from a GitHub username.
 
-# Getting Started 
-- Clone repository to get all necessary files to your local machine
-- Install all dependencies in root folder by running npm install in terminal or command prompt
-- Run command node index.js
+# Developer-Profile-Generator
+
+## Description
+
+A command-line application that dynamically generates a PDF profile from a GitHub username.
+
+## Installation Instructions
+
+ * Clone repository to your local machine
+ 
+ * Run "npm install" in Terminal or Command prompt
+ 
+ * Run command node index.js
 
 # Breakdown 
 After doing the instructions stated above:
