@@ -36,15 +36,19 @@ A command-line application that dynamically generates a PDF profile from a GitHu
  * Then open the PDF file on your machine or open in your default browser to click on the github or Blog links that will take    you to the user's Github page
 
 ## Technologies Used 
-- Html
-- CSS
-- Java Script 
-- Jquery
+ 
+ * Html
+ * CSS
+ * Java Script 
+ * Jquery
+ * Font Awesome
 
 # Author
-- Matthew Starr
 
-# Github Link
+Matthew Starr
+
+# Github Repo Link
+
 https://github.com/Mstarr85/Developer-Profile-Generator
 
 # Github Deployed Link
@@ -53,8 +57,8 @@ https://mstarr85.github.io/Developer-Profile-Generator/
 
 
 # License
-- This project is licensed under the MIT License Copyright (c) 2010-2020
 
+This project is licensed under the MIT License Copyright (c) 2010-2020
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
